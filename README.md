@@ -1,8 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sejal+Shrivastava;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 SEJAL SHRIVASTAVA.
+
+
 
 <a href="https://www.linkedin.com/in/sejal-shrivastava-b6086a21b">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
