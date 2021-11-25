@@ -14,12 +14,17 @@
 ## About Me
 - Love to code 💻.
 - A CSE sophomore at VIT Bhopal.
-- AI-ML Entusiaist.
+- AI-ML Enthusiast.
 - Music🎵.
 - Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
 
 <img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
+ 🔭 I’m currently working on Web development. <br>
+ 👯 I’m looking to collaborate on projects including HTML,CSS and Javascript. <br>
+ 📫 How to reach me: sejalshri19@gmail.com <br>
+ 
+ 
 
 
 
