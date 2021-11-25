@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 SEJAL SHRIVASTAVA.
+# 𝗛𝗲𝗹𝗹𝗼👋 𝗜'𝗺 SEJAL SHRIVASTAVA ✨.
 
 
 
@@ -12,10 +12,13 @@
 
 
 ## About Me
-- I Love to code 💻.
-- 2 nd Year Student in Bachelors in Technology from VIT Bhopal.
-- AIML Entusiaist.
-- love Music🎵.
+- Love to code 💻.
+- A CSE sophomore at VIT Bhopal.
+- AI-ML Entusiaist.
+- Music🎵.
+- Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
+
+<img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 
