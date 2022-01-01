@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼👋 𝗜'𝗺 SEJAL SHRIVASTAVA ✨.
+# 𝗛𝗲𝗹𝗹𝗼👋 𝗜'M SEJAL SHRIVASTAVA ✨.
 
 
 
