@@ -1,6 +1,6 @@
-# 𝗛𝗲𝗹𝗹𝗼👋 𝗜'M SEJAL SHRIVASTAVA ✨.
 
 
+<h1 align="center"> <B> Heyy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sejal Shrivastava✨ </B></h1>
 
 <a href="https://www.linkedin.com/in/sejal-shrivastava-b6086a21b">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
@@ -25,6 +25,16 @@
  📫 How to reach me: sejalshri19@gmail.com <br>
  
  
+ 
+ 
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 
 
 
