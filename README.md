@@ -48,6 +48,10 @@
 
 <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=Sejal-shh" />
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
 
 <!--
 **Sejal-shh/Sejal-shh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
