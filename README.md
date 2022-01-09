@@ -1,6 +1,11 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aparajita&color=%2336BCF7&size=28&center=true&vCenter=true&width=421&height=69&lines=Web+Developer;Java+Coder;AI+-+ML+Enthusiast)](https://git.io/typing-svg)
 
-<h1 align="center"> <B> Heyy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sejal Shrivastava✨ </B></h1>
+<h1 align="center"> <B> Heyy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sejal Shrivastava✨ </B></h1> 
+<br>
+
+
+
 
 <a href="https://www.linkedin.com/in/sejal-shrivastava-b6086a21b">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
