@@ -10,7 +10,10 @@
 <a href="https://www.linkedin.com/in/sejal-shrivastava-b6086a21b">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
 </a>
-<a href="mailto:sejalshri19@gmail.com"><img align="left" width="52px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
+<a href = "https://twitter.com/Sejal_shhh?t=yRaCNp9ad6T6UqZF-cErqg&s=09">
+   <img align="left" width="30px" src="https://raw.githubusercontent.com/bornmay/bornmay/master/twitter.png"  />
+  </a>
+<a href="mailto:sejalshri19@gmail.com"><img align="left" width="50px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 </a>
 
 <br />
