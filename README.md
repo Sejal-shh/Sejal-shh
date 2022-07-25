@@ -28,9 +28,9 @@
 
 <img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
- 🔭 I’m currently working on <B> Web development </B> <br>
- 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
- 📫 How to reach me: sejalshri19@gmail.com <br>
+- 🔭 I’m currently working on <B> Web development </B> <br>
+- 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
+- 📫 How to reach me: sejalshri19@gmail.com <br>
  
  
  
