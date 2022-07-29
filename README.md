@@ -22,7 +22,7 @@
 ## About Me
 - Love to code 💻.
 - A CSE sophomore at VIT Bhopal.
-- AI-ML Enthusiast
+- AI-ML Enthusiast.
 - Music🎵.
 - Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
 - 🔭 I’m currently working on <B> Web development </B> <br>
