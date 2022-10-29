@@ -29,13 +29,15 @@
 - 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
 - 📫 How to reach me: sejalshri19@gmail.com <br>
 
-<img align ="right" alt = "coding" width  = "400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br/>
 
+ ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
  
  
  
  
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools Used:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
