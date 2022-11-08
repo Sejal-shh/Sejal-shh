@@ -1,4 +1,4 @@
-![](https://github.com/Sejal-shh/Sejal-shh/blob/main/assests/Blue%20Modern%20Personal%20Fashion%20Designer%20Twitter%20Header.png)
+![](https://user-images.githubusercontent.com/92288027/200473865-bddcbba5-ac19-40d2-a57d-461b670c8853.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aparajita&color=%2336BCF7&size=28&center=true&vCenter=true&width=421&height=69&lines=Web+Developer;Java+Coder;AI+-+ML+Enthusiast)](https://git.io/typing-svg)
 
 <h1 align="center"> <B> Heyy! 👋 I'm Sejal Shrivastava✨ </B></h1> 
