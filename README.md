@@ -17,7 +17,7 @@
 </a>
 
 <br />
-
+<img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## About Me
 - Love to code 💻.
@@ -29,10 +29,10 @@
 - 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
 - 📫 How to reach me: sejalshri19@gmail.com <br>
 
-<img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <br/>
 
- ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
+ 
  
  
  
@@ -49,8 +49,11 @@
 
 
 <p>
-<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-shh&layout=compact" /> &emsp;   <img width='400' src="https://github-readme-stats.vercel.app/api?username=Sejal-shh&show_icons=true&theme=radical" />
+<img width='400' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-shh&layout=compact" /> &emsp;   
+  <img width='400' src="https://github-readme-stats.vercel.app/api?username=Sejal-shh&show_icons=true&theme=radical" />
 </p>
+
+
 
 
 
@@ -61,6 +64,13 @@
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
     </a>
+  
+  
+   ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
+  
+  
+  
+  
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
