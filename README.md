@@ -24,7 +24,7 @@
 - A CSE sophomore at VIT Bhopal.
 - AI-ML Enthusiast.
 - Music🎵.
-- Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁
+- Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
 - 🔭 I’m currently working on <B> Web development </B> <br>
 - 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
 - 📫 How to reach me: sejalshri19@gmail.com <br>
