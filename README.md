@@ -25,8 +25,8 @@
 - AI-ML Enthusiast.
 - Music🎵.
 - Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
-- 🔭 I’m currently working on <B> Web development </B> <br>
-- 👯 I’m looking to collaborate on projects including <B>HTML,CSS and Javascript </B>. <br>
+- 🔭 I’m currently working on <B> Machine Learning and Web development </B> <br>
+- 👯 I’m looking to collaborate on projects including <B>Data Science and ML algorithms</B>. <br>
 - 📫 How to reach me: sejalshri19@gmail.com <br>
 
 
