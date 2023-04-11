@@ -76,6 +76,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sejal-shh.sejal-shh)
+
 
 <!--
 **Sejal-shh/Sejal-shh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
