@@ -21,7 +21,7 @@
 
 ## About Me
 - Love to code 💻.
-- A CSE sophomore at VIT Bhopal.
+- A final year student at VIT Bhopal.
 - AI-ML Enthusiast.
 - Music🎵.
 - Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
