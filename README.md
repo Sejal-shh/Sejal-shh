@@ -20,13 +20,11 @@
 <img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## About Me
-- Love to code 💻.
 - A final year student at VIT Bhopal.
-- AI-ML Enthusiast.
-- Music🎵.
-- Code💻➡ Eat😋 ➡ Sleep💤 ➡ Repeat 🔁.
-- 🔭 I’m currently working on <B> Machine Learning and Web development </B> <br>
-- 👯 I’m looking to collaborate on projects including <B>Data Science and ML algorithms</B>. <br>
+- Skilled in Java,python and SQL
+- 🌍 Exploring the field of data science
+- 🔭 I’m currently working on projects involving integration of <B> Machine Learning and Web Development </B> <br>
+- 👯 Open to collaboration and seeking new opportunities to apply my expertise in ML algorithms and data science. 
 - 📫 How to reach me: sejalshri19@gmail.com <br>
 
 
