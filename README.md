@@ -15,6 +15,9 @@
   </a>
 <a href="mailto:sejalshri19@gmail.com"><img align="left" width="50px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 </a>
+<a href="https://leetcode.com/Sejal19/">
+  <img align="left" width="24px" src="https://leetcode.com/Sejal19/"  />
+</a>
 
 <br />
 <img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
