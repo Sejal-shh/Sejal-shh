@@ -23,8 +23,8 @@
 <img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ## About Me
-- ✨A final year student at VIT Bhopal.
-- 🍀Skilled in Java, python and SQL
+- ✨ A final year student at VIT Bhopal.
+- 🍀 Skilled in Java, python and SQL
 - 🌍 Exploring the field of data science
 - 🔭 I’m currently working on projects involving integration of <B> Machine Learning and Web Development </B> <br>
 - 👯 Open to collaboration and seeking new opportunities to apply my expertise in ML algorithms and data science.
