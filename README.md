@@ -1,8 +1,10 @@
 ![](https://github.com/Sejal-shh/Sejal-shh/blob/main/assests/Gradient%20Elegant%20Professional%20Gamer%20Twitter%20Header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aparajita&color=%2336BCF7&size=28&center=true&vCenter=true&width=421&height=69&lines=Web+Developer;Java+Coder;AI+-+ML+Enthusiast)](https://git.io/typing-svg)
 
-<h1 align="center"> <B> Heyy! 👋 I'm Sejal Shrivastava✨ </B></h1> 
-<br>
+<h2 align="center" ,style="font-size:300px;" > <B> Heyy! 👋 I'm Sejal Shrivastava✨ </B></h2> 
+
+
+
 
 
 
@@ -22,7 +24,10 @@
 <br />
 <img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-## About Me
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
+### About Me
 - ✨ A final year student at VIT Bhopal.
 - 🍀 Skilled in Java, python and SQL
 - 🌍 Exploring the field of data science
@@ -31,15 +36,10 @@
 - 💫 Fun fact:- I love dancing and singing in my leisure time!
 - 📫 How to reach me: sejalshri19@gmail.com <br>
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<br/>
 
- 
- 
- 
- 
- 
-## 🚀 Languages and Tools Used:
+### 🚀 Languages and Tools Used:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -48,6 +48,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 <p>
@@ -67,7 +68,8 @@
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
     </a>
   
-  
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
    ![banner](https://user-images.githubusercontent.com/91051053/192588281-8b9b87ae-02e5-4718-8679-5ccae0dcc4a8.png)
   
 <div align="center">
