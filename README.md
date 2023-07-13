@@ -20,11 +20,12 @@
 <a href="https://leetcode.com/Sejal19/">
   <img align="left" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"  />
 </a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 <br />
 <img align ="right" alt = "coding" width  = "300" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 ### About Me
