@@ -8,7 +8,7 @@
 
 
 <a href="https://www.linkedin.com/in/sejal-shrivastava-b6086a21b">
-  <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
+  <img align="left" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"  />
 </a>
 <a href = "https://twitter.com/Sejal_shhh?t=yRaCNp9ad6T6UqZF-cErqg&s=09">
    <img align="left" width="30px" src="https://raw.githubusercontent.com/bornmay/bornmay/master/twitter.png"  />
@@ -16,7 +16,7 @@
 <a href="mailto:sejalshri19@gmail.com"><img align="left" width="50px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 </a>
 <a href="https://leetcode.com/Sejal19/">
-  <img align="left" width="24px" src="https://leetcode.com/Sejal19/"  />
+  <img align="left" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"  />
 </a>
 
 <br />
