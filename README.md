@@ -1,7 +1,7 @@
 ![](https://github.com/Sejal-shh/Sejal-shh/blob/main/assests/Gradient%20Elegant%20Professional%20Gamer%20Twitter%20Header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aparajita&color=%2336BCF7&size=28&center=true&vCenter=true&width=421&height=69&lines=Web+Developer;Java+Coder;AI+-+ML+Enthusiast)](https://git.io/typing-svg)
 
-<h2 align="center" ,style="font-size:300px;" > <B> Heyy! 👋 I'm Sejal Shrivastava✨ </B></h2> 
+<h1 align="center" ,style="font-size:300px;" > <B> Heyy! 👋 I'm Sejal Shrivastava✨ </B></h1> 
 
 
 
