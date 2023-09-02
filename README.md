@@ -1,5 +1,5 @@
 # [Hey There! 👋](https://sejalshrivastava.netlify.app/)
-**I'm Sejal (he/they)** - I'm an ML developer, UI/UX designer, AWS Certified Could Practitioner, and College student based in the forest area. I'm interested in development, Machine Learning, and Data Science. I work on random useless things in my free time. 
+**I'm Sejal (She/her)** - I'm a ML developer, UI/UX designer, AWS Certified Could Practitioner, and a final year student at VIT Bhopal. I'm interested in Machine Learning, Data Science and Web development. I work on random useless things in my free time. 
 
 ## Skills:🤹‍♂️
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,aws,mysql,py)](https://skillicons.dev)
